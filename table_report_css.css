@@ -19,11 +19,6 @@
 
 }
 
-th {
-    background-color: #2C9999;
-    color: #ffffff;
-}
-
 #tooltip.hidden {
     display: none;
 
@@ -54,6 +49,7 @@ th {
 }
 
 .reportTable th {
+  background-color: #2C9999;
   color: #ffffff;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
